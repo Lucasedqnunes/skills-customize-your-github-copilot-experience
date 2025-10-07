@@ -20,6 +20,20 @@
       ]
     },
     {
+      "id": "fastapi-rest-api",
+      "title": "APIs REST com FastAPI",
+      "description": "Construção de uma API REST simples utilizando o framework FastAPI em Python.",
+      "path": "assignments/fastapi-rest-api",
+      "dueDate": "2025-10-14",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
+    },
+    {
       "id": "games-in-python",
       "title": "Games in Python",
       "description": "Creating games using Python",
